@@ -1,0 +1,25 @@
+{
+  "name": "dro-quota",
+  "version": "1.0.0",
+  "description": "dro quota",
+  "main": "dro-quota.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://juancancela@github.com/randiantech/dro-quota.git"
+  },
+  "keywords": [
+    "dromedary",
+    "dro",
+    "plugin",
+    "quota"
+  ],
+  "author": "Juan Carlos Cancela <cancela.juancarlos@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/randiantech/dro-quota/issues"
+  },
+  "homepage": "https://github.com/randiantech/dro-quota#readme"
+}
